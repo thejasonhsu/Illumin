@@ -1,2 +1,2 @@
-# illumin
-Illumin Web Dev
+# Illumin
+Illumin Web Dev.
