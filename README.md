@@ -1,2 +1,0 @@
-# Illumin
-Illumin Web Dev.
