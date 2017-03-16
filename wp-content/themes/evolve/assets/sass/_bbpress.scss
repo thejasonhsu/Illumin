@@ -1,0 +1,41 @@
+/*!==========================================================================
+   bbPress Styling
+   ========================================================================== */
+
+#buddypress a.button,
+#buddypress input[type=submit],
+#buddypress .standard-form div.submit input {
+    font-weight: bold !important;
+    background-color: #eee !important;
+    border: 0 none !important;
+    color: #555 !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    padding: 5px 10px !important;
+}
+
+#buddypress #avatar-upload-form #upload {
+    margin-top: 10px;
+}
+
+#buddypress #whats-new-options {
+    overflow: hidden !important;
+}
+
+
+a.bbp-author-avatar {
+    display: inline-block !important;
+}
+
+#qt_bbp_topic_content_toolbar input[type=button],
+#qt_bbp_reply_content_toolbar input[type=button] {
+    background-color: #eee !important;
+    border: 0 none !important;
+    color: #8c8c8c !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    padding: 5px 10px !important;
+    margin: 2px !important;
+}

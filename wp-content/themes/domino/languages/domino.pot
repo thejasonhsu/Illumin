@@ -1,0 +1,1077 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Domino Magazine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Nov 19 2015 15:42:28 GMT+0200 (EET)\n"
+"POT-Revision-Date: Fri Feb 19 2016 15:44:30 GMT+0200 (EET)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:11
+msgid "Error 404"
+msgstr ""
+
+#: ../breaking-news.php:15
+msgid "Breaking News"
+msgstr ""
+
+#: ../breaking-news.php:22
+msgid " ago"
+msgstr ""
+
+#: ../comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:19
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:19
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:60
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:67
+msgid "Email Address"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Message"
+msgstr ""
+
+#: ../comments.php:79
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:81
+msgid "Cancel"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Post Comment"
+msgstr ""
+
+#: ../content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:14
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"It seems that we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:13 ../content-single.php:54 ../content.php:19 ..
+#: /functions/template-tags.php:32 ../page-templates/archives.php:22
+msgid "Edit"
+msgstr ""
+
+#: ../content-page.php:22 ../content-single.php:98
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:40
+msgid "Written by "
+msgstr ""
+
+#: ../content-single.php:49
+msgid "on"
+msgstr ""
+
+#: ../content.php:16
+msgid "by"
+msgstr ""
+
+#: ../content.php:17 ../wpzoom-slider.php:46 ../functions/widgets/featured-
+#: category.php:217 ../functions/widgets/featured-category.php:339
+msgid "0 comments"
+msgstr ""
+
+#: ../content.php:17 ../wpzoom-slider.php:46 ../functions/widgets/featured-
+#: category.php:217 ../functions/widgets/featured-category.php:339
+msgid "1 comment"
+msgstr ""
+
+#: ../content.php:17 ../wpzoom-slider.php:46 ../functions/widgets/featured-
+#: category.php:217 ../functions/widgets/featured-category.php:339
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../content.php:17 ../wpzoom-slider.php:46 ../functions/widgets/featured-
+#: category.php:339
+msgid "Comments are Disabled"
+msgstr ""
+
+#: ../content.php:30 ../related-posts.php:44
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content.php:30
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: ../footer.php:86
+#, php-format
+msgid "Designed by %s"
+msgstr ""
+
+#: ../pagination.php:11
+msgid "&larr;  Previous"
+msgstr ""
+
+#: ../pagination.php:12
+msgid "Next  &rarr;"
+msgstr ""
+
+#: ../related-posts.php:17
+msgid "More in"
+msgstr ""
+
+#: ../search.php:7
+msgid "Search Results for"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../wpzoom-slider.php:60
+msgid "You are now ready to set-up your Slideshow content."
+msgstr ""
+
+#: ../wpzoom-slider.php:65
+#, php-format
+msgid ""
+"For more information about adding posts to the slider, please <a "
+"href=\"%1$s\">read the documentation</a>"
+msgstr ""
+
+#: ../functions/functions.php:65 ../functions/customizer/sections/typography.php:72
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions/functions.php:66 ../functions/customizer/sections/typography.php:
+#: 102
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions/functions.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions/template-tags.php:30
+#, php-format
+msgid "%s at %s"
+msgstr ""
+
+#: ../functions/template-tags.php:31
+msgid "Reply"
+msgstr ""
+
+#: ../functions/template-tags.php:40
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/template-tags.php:55
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/template-tags.php:55
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions/customizer/customizer.php:184
+msgid "General"
+msgstr ""
+
+#: ../functions/customizer/customizer.php:185
+msgid "Homepage"
+msgstr ""
+
+#: ../functions/customizer/customizer.php:186
+msgid "Typography"
+msgstr ""
+
+#: ../functions/customizer/customizer.php:187
+msgid "Color Scheme"
+msgstr ""
+
+#: ../functions/customizer/customizer.php:188
+msgid "Header"
+msgstr ""
+
+#: ../functions/customizer/customizer.php:189 ..
+#: /functions/customizer/sections/footer.php:13
+msgid "Footer"
+msgstr ""
+
+#: ../functions/customizer/helpers-defaults.php:90
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:409
+msgid "All"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:410
+msgid "Cyrillic"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:411
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:412
+msgid "Devanagari"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:413
+msgid "Greek"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:414
+msgid "Greek Extended"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:415
+msgid "Khmer"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:416
+msgid "Latin"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:417
+msgid "Latin Extended"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:418
+msgid "Vietnamese"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:452
+msgid "Loading&hellip;"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:506
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:508
+msgid "Google Fonts"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:534
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:538
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:542
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: ../functions/customizer/sections/background.php:10
+msgid "Site Background"
+msgstr ""
+
+#: ../functions/customizer/sections/background.php:16
+msgid "Background Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:7
+msgid "Colors"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:20
+msgid "Body Text"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:30
+msgid "Header Background Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:40
+msgid "Logo Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:50
+msgid "Link"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:60
+msgid "Link Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:74
+msgid "Menu Item"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:84
+msgid "Menu Item Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:95
+msgid "Top Menu Current Item Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:106
+msgid "Menu Current Item Background"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:117
+msgid "Dropdown Background"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:131
+msgid "Breaking News Title Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:146 ..
+#: /functions/customizer/sections/typography.php:190
+msgid "Post Title"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:156
+msgid "Post Title Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:166
+msgid "Post Meta"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:176
+msgid "Post Meta Link"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:186
+msgid "Post Meta Link Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:200 ..
+#: /functions/customizer/sections/typography.php:161
+msgid "Widget Title"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:215
+msgid "Footer Menu Link"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:225
+msgid "Footer Menu Link Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:21
+msgid "Number of Widget Areas"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:32
+msgid "Footer Text"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:40
+msgid "Footer Menu Background"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:48
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:58
+msgid "Footer Background Image"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:67
+msgid "Footer Background Repeat"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:70
+msgid "No Repeat"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:71
+msgid "Tile"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:72
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:73
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:82
+msgid "Footer Background Position"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:85
+msgid "Left"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:86
+msgid "Center"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:87
+msgid "Right"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:96
+msgid "Footer Background Size"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:99
+msgid "Auto"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:100
+msgid "Cover"
+msgstr ""
+
+#: ../functions/customizer/sections/footer.php:101
+msgid "Contain"
+msgstr ""
+
+#: ../functions/customizer/sections/general.php:12 ..
+#: /functions/customizer/sections/general.php:21
+msgid "Logo"
+msgstr ""
+
+#: ../functions/customizer/sections/general.php:31
+msgid "Retina Ready?"
+msgstr ""
+
+#: ../functions/customizer/sections/general.php:40
+msgid "Favicon"
+msgstr ""
+
+#: ../functions/customizer/sections/general.php:41
+msgid ""
+"File must be <strong>.png</strong> or <strong>.ico</strong> format. Optimal "
+"dimensions: <strong>32px x 32px</strong>."
+msgstr ""
+
+#: ../functions/customizer/sections/header.php:13
+msgid "Search Form"
+msgstr ""
+
+#: ../functions/customizer/sections/header.php:21
+msgid "Hide Search Field"
+msgstr ""
+
+#: ../functions/customizer/sections/site-title-tagline.php:27
+msgid "Hide Tagline"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:12
+msgid "Body"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:19
+msgid "Body Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:29
+msgid "Body Font Size (in px)"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:41
+msgid "Site Title"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:48
+msgid "Site Title Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:58
+msgid "Site Title Font Size (in px)"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:79
+msgid "Top Menu Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:89 ..
+#: /functions/customizer/sections/typography.php:119
+msgid "Menu Font Size (in px)"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:109
+msgid "Menu Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:131
+msgid "Slider"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:138
+msgid "Slider Title Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:148
+msgid "Slider Title Font Size (in px)"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:168
+msgid "Widgets Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:178
+msgid "Widgets Font Size (in px)"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:197
+msgid "Post Title Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:207
+msgid "Post Title Font Size (in px)"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:221
+msgid "Single Post Title"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:228
+msgid "Single Post Title Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:238
+msgid "Single Post Title Font Size (in px)"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:250
+msgid "Page Title"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:257
+msgid "Page Title Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:267
+msgid "Page Title Font Size (in px)"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:191
+msgid "Title"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:196 ../functions/widgets/featured-category.
+#: php:407
+msgid "Widget Title Color:"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:212
+msgid "Show"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:213
+msgid "posts"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:219
+msgid "Auto-Scroll"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:221
+msgid "Automatically scroll through the posts"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:226
+msgid "Show Category"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:231
+msgid "Show Date"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:235
+msgid "Posts to Display:"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:237
+msgid "Categories"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:238
+msgid "Tag(s)"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:244
+msgid "Category (if selected above):"
+msgstr ""
+
+#: ../functions/widgets/carousel.php:272
+msgid "Tag slugs (if selected above, separated by comma \",\"):"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:20
+msgid "Featured Category Widget for Homepage"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:26
+msgid "Featured Category"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:396 ..
+#: /functions/widgets/popularnews.php:119 ../functions/widgets/recentposts.php:128
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:402
+msgid "Display Widget Title"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:423
+msgid "Widget Style:"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:425
+msgid "Mosaic Images"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:426
+msgid "Images with Text"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:434 ..
+#: /functions/widgets/recentposts.php:133
+msgid "Category:"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:436
+msgid "Choose category:"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:454
+msgid "Numbers of posts:"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:472
+msgid "Skip (offset) first"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:473
+msgid "posts from category"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:477
+msgid ""
+"This option is useful when you want to have two widgets side by side showing "
+"latest 2 posts from the same category."
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:482
+msgid "Exclude Featured Posts from Widget"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:488
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:492
+msgid ""
+"This option works only when Images with Text style is selected in Widget "
+"Style."
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:496
+msgid "Display Date"
+msgstr ""
+
+#: ../functions/widgets/featured-category.php:501
+msgid "Display Comments Number"
+msgstr ""
+
+#: ../functions/widgets/popularnews.php:84
+msgid "comments"
+msgstr ""
+
+#: ../functions/widgets/popularnews.php:93
+msgid "No commented posts yet"
+msgstr ""
+
+#: ../functions/widgets/popularnews.php:124
+msgid "Since:"
+msgstr ""
+
+#: ../functions/widgets/popularnews.php:126
+msgid "Forever"
+msgstr ""
+
+#: ../functions/widgets/popularnews.php:127
+msgid "This Year"
+msgstr ""
+
+#: ../functions/widgets/popularnews.php:128
+msgid "This Month"
+msgstr ""
+
+#: ../functions/widgets/popularnews.php:133
+msgid "Posts To Display:"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:18
+msgid "WPZOOM: Recent Posts"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:21
+msgid "Recent Posts"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:153
+msgid "Show:"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:159
+msgid "Hide post title"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:164
+msgid "Display post date"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:169
+msgid "Display post thumbnail"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:177
+msgid "Thumbnail size:"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:185
+msgid "Display post excerpt"
+msgstr ""
+
+#: ../functions/widgets/recentposts.php:189
+msgid "Excerpt character limit:"
+msgstr ""
+
+#: ../functions/widgets/tabs.php:40
+msgid "Drag me to the Sidebar"
+msgstr ""
+
+#: ../functions/widgets/tabs.php:42
+msgid "WPZOOM: Tabs"
+msgstr ""
+
+#: ../functions/widgets/tabs.php:68
+msgid "Tabber"
+msgstr ""
+
+#: ../functions/widgets/tabs.php:73
+msgid ""
+"Place your widgets in the <strong>WPZOOM: Tabs Widget Area</strong> and have "
+"them show up here."
+msgstr ""
+
+#: ../functions/widgets/tabs.php:93
+msgid "WPZOOM: Tabs Widget Area"
+msgstr ""
+
+#: ../functions/widgets/tabs.php:95
+msgid "Each widget added here will be shown as a tab in the \"WPZOOM: Tabs\" widget."
+msgstr ""
+
+#: ../functions/wpzoom/wpzoom.php:155
+msgid "WPZOOM"
+msgstr ""
+
+#: ../functions/wpzoom/wpzoom.php:156
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions/wpzoom/wpzoom.php:159
+msgid "Framework Update"
+msgstr ""
+
+#: ../functions/wpzoom/components/medialib-uploader.php:15
+msgid "WPZOOM Exporter"
+msgstr ""
+
+#: ../functions/wpzoom/components/medialib-uploader.php:38
+msgid "Upload"
+msgstr ""
+
+#: ../functions/wpzoom/components/medialib-uploader.php:40
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../functions/wpzoom/components/medialib-uploader.php:60
+msgid "View File"
+msgstr ""
+
+#: ../functions/wpzoom/components/video-thumb.php:86
+msgid ""
+"<strong>NOTICE!&nbsp;&nbsp;Unable to fetch video "
+"thumbnail</strong><br/>Either an invalid embed code was provided, or there "
+"is no thumbnail available for the specified video&hellip;<br/><small "
+"id=\"wpz_autothumb_remind\"><strong>REMINDER:</strong> You can always manually "
+"upload a featured image via the WordPress Media Uploader.</small>"
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/admin.php:115
+msgid ""
+"SEO Settings were removed from WPZOOM Framework as it was announced in the "
+"previous update."
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/admin.php:118
+msgid ""
+"Recommended replacement plugin is <a href=\"http://wordpress."
+"org/plugins/wordpress-seo/\" target=\"_blank\">Yoast SEO</a>."
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/admin.php:121
+msgid ""
+"If you're using our themes on a multisite install don't forget to notify "
+"your users about this change."
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/settings-fields.php:369
+#, php-format
+msgid ""
+"<p>This option has been deprecated in favor of the Site Icon setting in "
+"WordPress core. Please visit %s to configure your site icon.</p>"
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/settings-fields.php:372
+msgid "General Settings"
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/settings-page.php:132
+msgid "For more information:"
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/settings-page.php:133
+msgid ""
+"<a href=\"http://www.wpzoom.com/support/documentation\" "
+"target=\"_blank\">Documentation and Tutorials</a>"
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/settings-page.php:134
+msgid "<a href=\"http://www.wpzoom.com/support/\" target=\"_blank\">Support Desk</a>"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:69 ..
+#: /functions/wpzoom/components/portfolio/portfolio.php:81
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:70 ..
+#: /functions/wpzoom/components/portfolio/portfolio.php:72
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:71 ..
+#: /functions/wpzoom/components/portfolio/portfolio.php:84 ..
+#: /functions/wpzoom/components/portfolio/portfolio.php:121 ..
+#: /functions/wpzoom/components/portfolio/portfolio.php:123
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:73
+msgid "Add New"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:74
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:75
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:76
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:77
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:78
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:79
+msgid "No portfolio items found"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:80
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:120 ..
+#: /functions/wpzoom/components/portfolio/portfolio.php:122
+msgid "Portfolios"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:124
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:125
+msgid "Popular Portfolios"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:126
+msgid "All Portfolios"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:127
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:128
+msgid "View Portfolio"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:129
+msgid "Update Portfolio"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:130
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:131
+msgid "New Portfolio Name"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:132
+msgid "Separate portfolios with commas"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:133
+msgid "Add or remove portfolios"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:134
+msgid "Choose from the most used portfolios"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/walker-category-filter.php:13
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: ../functions/wpzoom/components/portfolio/walker-category-filter.php:29
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../functions/wpzoom/components/shortcodes/dialog.php:31
+msgid "Customize the Shortcode"
+msgstr ""
+
+#: ../functions/wpzoom/components/shortcodes/dialog.php:40
+msgid "Preview"
+msgstr ""
+
+#: ../functions/wpzoom/components/shortcodes/dialog.php:54
+msgid "Your version of theme does not yet support shortcodes."
+msgstr ""
+
+#. Name of the template
+msgid "Archives Page"
+msgstr ""
+
+#: ../page-templates/archives.php:28
+msgid "Popular Categories:"
+msgstr ""
+
+#: ../page-templates/archives.php:38
+msgid "Archives:"
+msgstr ""
+
+#: ../page-templates/archives.php:47
+msgid "Tags:"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width Page"
+msgstr ""
+
+#. Name of the theme
+msgid "Domino Magazine"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.wpzoom.com/themes/domino"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.wpzoom.com/"
+msgstr ""

@@ -1,0 +1,65 @@
+Domino Magazine
+http://www.wpzoom.com/themes/domino
+
+CHANGELOG
+---------
+
+v 1.2.3 (November 30, 2016)
+
+    - /css/media-queries.css - Minor bug with Featured Category widget on mobile devices when showing 2 posts.
+
+
+v 1.2.2 (July 4, 2016)
+
+    - Added WooCommerce Support
+    - modified files:
+        - functions/options.php
+        + functions/woocommerce.php - new file
+        + woocommerce/ - new folder
+        - header.php
+        - functions.php
+        - style.css
+
+
+v 1.2.1 (February 8, 2016)
+
+    - /css/media-queries.css - minor bug fix on some images in responsive design.
+
+
+v 1.2.0 (February 6, 2016)
+
+    - Numerous performance improvements that will increase the PageSpeed score.
+    - Added a new option to change the header background color in Customizer > Colors.
+    *** Thumbnails regeneration is needed if you update from an older version - http://www.wpzoom.com/tutorial/fixing-stretched-images/
+    - modified files:
+        - /functions/customizer/sections/color-scheme.php
+        - /functions/customizer/helpers-defaults.php
+        - /functions/customizer/helpers-display.php
+        - /functions/widgets/carousel.php
+        - /functions/widgets/featured-category.php
+        - /functions/functions.php
+        - style.css
+        - wpzoom-slider.php
+
+
+v 1.1.0 (December 1, 2015)
+
+    - Added support for Jetpack Infinite Scroll
+    - modified files:
+        - /functions/functions.php
+        - archive.php
+        - index.php
+        - search.php
+        - style.css
+
+
+v 1.0.1 (November 19, 2015)
+
+    - Fixed a bug with language files.
+    - new file:
+        - /languages/domino.pot
+
+
+v 1.0  (August 25, 2015)
+
+	- initial release
